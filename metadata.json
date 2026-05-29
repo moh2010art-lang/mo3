@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Cleaning Services",
+  "description": "Premium industrial cleaning and high-pressure water jetting services presentation for the Oil & Gas sector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
